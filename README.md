@@ -7,17 +7,25 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M4OWM3M2VkbGk3a3B3a3hjd2Jva3JxN3M1ZDgwczZjc2ZoenEyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTjGit29JSV1rr97g1/giphy.gif"  />
+<br clear="both">
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M4OWM3M2VkbGk3a3B3a3hjd2Jva3JxN3M1ZDgwczZjc2ZoenEyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTjGit29JSV1rr97g1/giphy.gif"  />
 
 ###
 
 <div align="left">
   <a href="https://www.instagram.com/virtual_.dancer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=:)&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
 </div>
 
-###
+### SIUUUUUUUUUUUUU
+
+
+<img align="center" src="https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif"  />
+
+
+
 
 ### Hey voici ma fiche d'informations
 ## Je m'appelle Maël

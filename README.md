@@ -51,7 +51,7 @@ De plus, je souhaiterai me diriger vers les métiers du Journalisme et de la Com
 Cela fait mainteant 5ans que j'en pratique !
 Voici une petite photo bien sympa :)
 
-![Moi](https://github.com/virtualdancer/classeur_1ere/assets/144245854/3fccd4a4-0f36-4007-9869-92b7bbe3ae36)
+![https://www.redbull.com/fr-fr/event-series/bc-one/](https://github.com/virtualdancer/classeur_1ere/assets/144245854/3fccd4a4-0f36-4007-9869-92b7bbe3ae36)
 
 ## Voilà c'est tout pour moi
 ![nyan-cat-petit](https://github.com/virtualdancer/classeur_1ere/assets/144245854/4c0d4e38-f5bb-4c7e-9422-d524d9e0849b)

@@ -37,7 +37,7 @@
 Je suis en première G3, et j'ai choisi la NSI car, l'informatique, et la programmation m'interesse beaucoup.
 De plus, je souhaiterai me diriger vers les métiers du Journalisme et de la Communication. https://www.onisep.fr/metier/decouvrir-le-monde-professionnel/journalisme
 
-![[2197929-adobestock-81661460-766x438](https://www.redbull.com/fr-fr/event-series/bc-one/)](https://github.com/virtualdancer/classeur_1ere/assets/144245854/85f12b73-33f5-4903-b5ff-0cfa398e1752)
+![2197929-adobestock-81661460-766x438 (https://www.redbull.com/fr-fr/event-series/bc-one/)(https://github.com/virtualdancer/classeur_1ere/assets/144245854/85f12b73-33f5-4903-b5ff-0cfa398e1752)]
 
 ## Mes Spécialités cette année:
 - HLP

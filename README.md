@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<a href="https://www.instagram.com/virtual_.dancer/" <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M4OWM3M2VkbGk3a3B3a3hjd2Jva3JxN3M1ZDgwczZjc2ZoenEyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTjGit29JSV1rr97g1/giphy.gif"  <a/>
+<a href="https://www.instagram.com/virtual_.dancer/" <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M4OWM3M2VkbGk3a3B3a3hjd2Jva3JxN3M1ZDgwczZjc2ZoenEyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTjGit29JSV1rr97g1/giphy.gif"> <a/>
 
 ###
 

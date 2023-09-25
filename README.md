@@ -8,13 +8,15 @@
 ###
 
 <br clear="both">
-[![Ceci est un exemple d’image]([https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif)]([https://example.com](https://www.instagram.com/virtual_.dancer/))
+
+[![Ceci est un exemple d’image](https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif)](https://www.instagram.com/virtual_.dancer/)
 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/virtual_.dancer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=:)&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+
+<a href="https://www.instagram.com/virtual_.dancer/" target="_blank">
+    <img src="https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif" height="50" alt="instagram logo"  />
   </a>
 </div>
 

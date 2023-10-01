@@ -2,33 +2,21 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-[![Ceci est un exemple d’image](https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif)](https://www.instagram.com/virtual_.dancer/)
 
 [![Ceci est un exemple d’image](https://media.giphy.com/media/DTjGit29JSV1rr97g1/giphy.gif)](https://www.instagram.com/virtual_.dancer/)
 
+
 ###
 
-<div align="left">
+[![Ceci est un exemple d’image](https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif)](https://www.instagram.com/virtual_.dancer/)
 
-<a href="https://www.instagram.com/virtual_.dancer/" target="_blank">
-    <img src="https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif" height="50" alt="instagram logo"  />
-  </a>
-</div>
+###
 
-<a href="https://www.redbull.com/fr-fr/event-series/bc-one/">
-      <img src="[Pictures/red-bull-bc.png](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M4OWM3M2VkbGk3a3B3a3hjd2Jva3JxN3M1ZDgwczZjc2ZoenEyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTjGit29JSV1rr97g1/giphy.gif)" alt="logo redbull" width="18%"></a>
 
-### SIUUUUUUUUUUUUU
+[![Ceci est un exemple d’image](https://media.giphy.com/media/kH66g5hnabFDW2Y5Z9/giphy.gif)](https://www.redbull.com/fr-fr/event-series/bc-one/)
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M4OWM3M2VkbGk3a3B3a3hjd2Jva3JxN3M1ZDgwczZjc2ZoenEyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTjGit29JSV1rr97g1/giphy.gif)
-<a href= https://www.redbull.com/fr-fr/event-series/bc-one/ <img align="center" src="https://media.giphy.com/media/5n067EUZwH8cvtRfGz/giphy.gif">   <a/>
+<div align="left" </div>
+
 
 
 ### Hey voici ma fiche d'informations

@@ -15,66 +15,30 @@
     <h5><a href="https://ericecmorlaix-p5js-toto.glitch.me">Glitch Avatar Toto</a></h5>
     <h5><a href="https://ericecmorlaix-let-it-snow.glitch.me">Let it snow-P5.sound.js</a></h5>
     <h5><a href="http://isn.si.lycee.ecmorlaix.fr/casseTete/">jQuery Casse-tête</a></h5>
-    <nav class="nav">
-      <div class="burger">
-        <div class="burger__patty"></div>
-      </div>
-    
-      <ul class="nav__list">
-        <li class="nav__item">
-          <a href="#1" class="nav__link c-blue"><i class="fa fa-camera-retro"></i></a>
-        </li>
-        <li class="nav__item">
-          <a href="#2" class="nav__link c-yellow scrolly"><i class="fa fa-bolt"></i></a>
-        </li>
-        <li class="nav__item">
-          <a href="#3" class="nav__link c-red"><i class="fa fa-music"></i></a>
-        </li>
-        <li class="nav__item">
-          <a href="#4" class="nav__link c-green"><i class="fa fa-paper-plane"></i></a>
-        </li>
-      </ul>
-    </nav>
-    
-    <section class="panel b-blue" id="1">
-      <article class="panel__wrapper">
-        <div class="panel__content">
-          <h1 class="panel__headline"><i class="fa fa-camera-retro"></i>&nbsp;Cameras</h1>
-          <div class="panel__block"></div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea molestias ducimus, eos asperiores, ab officia sint nostrum quia, corporis officiis id praesentium expedita numquam ad non error optio est in.</p>
-        </div>
-      </article>
-    </section>
-    <section class="panel b-yellow" id="2">
-      <article class="panel__wrapper">
-        <div class="panel__content">
-          <h1 class="panel__headline"><i class="fa fa-bolt"></i>&nbsp;Lightning</h1>
-          <div class="panel__block"></div>
-          <p>Paleo authentic mlkshk taxidermy, vinyl meditation lomo drinking vinegar sartorial raw denim Thundercats bitters selvage listicle. Keffiyeh Williamsburg gastropub McSweeney's.</p>
-        </div>
-      </article>
-    </section>
-    <section class="panel b-red" id="3">
-      <article class="panel__wrapper">
-        <div class="panel__content">
-          <h1 class="panel__headline"><i class="fa fa-music"></i>&nbsp;Music</h1>
-          <div class="panel__block"></div>
-          <p>Beard sriracha kitsch literally, taxidermy normcore aesthetic wayfarers salvia keffiyeh farm-to-table sartorial gluten-free mlkshk. Selvage normcore 3 wolf moon, umami Kickstarter artisan meggings cardigan drinking vinegar bicycle rights.</p>
-        </div>
-      </article>
-    </section>
-    <section class="panel b-green" id="4">
-      <article class="panel__wrapper">
-        <div class="panel__content">
-          <h1 class="panel__headline"><i class="fa fa-paper-plane"></i>&nbsp;Paper Planes</h1>
-          <div class="panel__block"></div>
-          <p>90's wayfarers lomo you probably haven't heard of them trust fund banh mi. Flannel Shoreditch dreamcatcher, quinoa flexitarian Banksy pickled post-ironic lo-fi. Photo booth asymmetrical tousled letterpress.</p>
-        </div>
-      </article>
-    </section>
-    <a href="http://ettrics.com/code/vertical-layout-navigation/" class="logo" target="_blank">
-     <img class="logo" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/45226/ettrics-logo.svg" alt="" /> 
-    </a>
-    
-  </body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <div class="container-fluid">
+       <a class="navbar-brand" href="#">Brand</a>
+       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main_nav"  aria-expanded="false" aria-label="Toggle navigation">
+           <span class="navbar-toggler-icon"></span>
+       </button>
+       <div class="collapse navbar-collapse" id="main_nav">
+       <ul class="navbar-nav">
+         <li class="nav-item active"> <a class="nav-link" href="#">Home </a> </li>
+         <li class="nav-item"><a class="nav-link" href="#"> About </a></li>
+         <li class="nav-item"><a class="nav-link" href="#"> Services </a></li>
+         <li class="nav-item dropdown">
+            <a class="nav-link  dropdown-toggle" href="#" data-bs-toggle="dropdown">  Hover me  </a>
+             <ul class="dropdown-menu">
+             <li><a class="dropdown-item" href="#"> Submenu item 1</a></li>
+             <li><a class="dropdown-item" href="#"> Submenu item 2 </a></li>
+             <li><a class="dropdown-item" href="#"> Submenu item 3 </a></li>
+             </ul>
+         </li>
+       </ul>
+       </div> <!-- navbar-collapse.// -->
+      </div> <!-- container-fluid.// -->
+     </nav>
+
+    </body>
 </html>
